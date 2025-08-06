@@ -31,6 +31,6 @@ Open your browser and visit:
 http://localhost:8080/your-app-name/
 Replace your-app-name with the name of your .war file (excluding .war extension).
 
-
+view output.zip folder download raw to see the outputs.
 
 
